@@ -1,7 +1,7 @@
 {
-  "name": "claude-code-book-template",
+  "name": "Claude-Code-AIDD-TODO",
   "image": "mcr.microsoft.com/devcontainers/base:bookworm",
-  "workspaceFolder": "/workspaces/claude-code-book-template",
+  "workspaceFolder": "/workspaces/Claude-Code-AIDD-TODO",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {},
     "ghcr.io/devcontainers/features/github-cli:1": {}
